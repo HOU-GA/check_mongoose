@@ -1,0 +1,19 @@
+{
+  "name": "16_check_mongoose_mongodb_nod_js",
+  "version": "1.0.0",
+  "description": "check mongoose vs mongodb vs node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.1",
+    "nodemon": "^3.1.10"
+  }
+}
